@@ -27,3 +27,4 @@ document.querySelector('form').addEventListener('submit', function (e) {
 		pwcon.classList.add('perfect');
 	}
 });
+console.log("The program has ended(For debugging purpose)");
